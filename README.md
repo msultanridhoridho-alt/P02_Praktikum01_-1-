@@ -17,3 +17,9 @@
 **4. Kecukupan Data**
 - **Sudah cukup** jika analisis tim berfokus pada tren penjualan produk, kategori terlaris, atau efektivitas metode pembayaran.
 - **Belum cukup** jika tim ingin menghitung profit/keuntungan bersih (karena tidak ada data Harga Pokok Penjualan/modal) atau menganalisis loyalitas pembeli (karena tidak ada ID Pelanggan).
+
+**Nama Anggota
+- **MUHAMMAD SULTAN RIDHO** 0110225099
+- **ALFANDI PANCA SAPUTRA** 0110225026
+- **DZAKWAN ABDUR RASYID** 0110225036
+- **MUMTAAZ ABDURRAHMAN** 0110225164
