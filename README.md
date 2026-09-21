@@ -1,4 +1,4 @@
-## M1 - Proposal Proyek: Analisis Awal Dataset UMKM
+## Bagian F — Checkpoint proyek
 
 **1. Dimensi dan Satuan Data**
 - Dataset ini memiliki **1.212 baris** dan **11 kolom**.
